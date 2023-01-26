@@ -2,4 +2,5 @@
 /bin
 .classpath
 mygithubssh
-mygithubssh.PUB
+mygithubssh.pub
+.project
